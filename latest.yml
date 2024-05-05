@@ -1,8 +1,8 @@
-version: 1.0.4
+version: 1.0.5
 files:
-  - url: apigsm-minimal-1.0.4-setup.exe
-    sha512: 8yz/ZaE6WvOxJNNo2DAhP5lfjhkCbNMjcGRKVJieN6yUHBG6iq1OvpJ0McyCafHf6JxJzy3hZI5j5wp9Nu4UWQ==
-    size: 99095844
-path: apigsm-minimal-1.0.4-setup.exe
-sha512: 8yz/ZaE6WvOxJNNo2DAhP5lfjhkCbNMjcGRKVJieN6yUHBG6iq1OvpJ0McyCafHf6JxJzy3hZI5j5wp9Nu4UWQ==
-releaseDate: '2024-05-05T11:31:37.478Z'
+  - url: apigsm-minimal-1.0.5-setup.exe
+    sha512: YjBg3rpVZWyZIZi7iCCEThYAN0ZSKRvEt2Hd+5qAyVe0KJO8N4+G/qvKdfa+HFxTSHF577pNZJaIOAonQfYUNQ==
+    size: 99049429
+path: apigsm-minimal-1.0.5-setup.exe
+sha512: YjBg3rpVZWyZIZi7iCCEThYAN0ZSKRvEt2Hd+5qAyVe0KJO8N4+G/qvKdfa+HFxTSHF577pNZJaIOAonQfYUNQ==
+releaseDate: '2024-05-05T14:54:19.804Z'
